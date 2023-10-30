@@ -171,6 +171,7 @@ class CalculadoraState extends State<Calculadora>{
           t2.text = "";
           resultado;
         });
+        
       }
 
 }// Fecha a classe CalculadoraState
